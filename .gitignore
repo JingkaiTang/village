@@ -1,2 +1,9 @@
 # IDEA
 .idea/
+
+# Default bin file
+a.out
+
+# Vim
+*.swp
+
